@@ -1,0 +1,72 @@
+No files changed, compilation skipped
+[32mScript ran successfully.[0m
+
+== Logs ==
+  owner:  0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+  msgSender:  0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+  version:  v2
+[33mEIP-3855 is not supported in one or more of the RPCs used.
+Unsupported Chain IDs: 31337.
+Contracts deployed with a Solidity version equal or higher than 0.8.20 might not work properly.
+For more information, please see https://eips.ethereum.org/EIPS/eip-3855[0m
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 31337
+
+Estimated gas price: 3.002710686 gwei
+
+Estimated total gas used for script: 1321795
+
+Estimated amount required: 0.00396896797120137 ETH
+
+==========================
+
+###
+Finding wallets for all the necessary addresses...
+##
+Sending transactions [0 - 2].
+
+Transactions saved to: /Users/simonebianchin/dev/github.com/UpgradeableProxyUUP/broadcast/TestUpgrade.s.sol/31337/run-latest.json
+
+Sensitive values saved to: /Users/simonebianchin/dev/github.com/UpgradeableProxyUUP/cache/TestUpgrade.s.sol/31337/run-latest.json
+
+##
+Waiting for receipts.
+
+##### anvil-hardhat
+✅  [Success]Hash: 0xd0d8f9fdea73f6331d66019dcd4d77d4a0d9f680d7bc0df177e7fc038f1269f8
+Contract Address: 0xCD8a1C3ba11CF5ECfa6267617243239504a98d90
+Block: 53
+Paid: 0.002779471325858232 ETH (926124 gas * 3.001187018 gwei)
+
+
+##### anvil-hardhat
+✅  [Success]Hash: 0xa58b749e2a6534e40e9ed2066729d5be92ca6faa76e81e751dcc2049c9ab705e
+Block: 54
+Paid: 0.00011756604764335 ETH (39175 gas * 3.001047802 gwei)
+
+
+##### anvil-hardhat
+✅  [Success]Hash: 0x6632fda64b86b9b1841ad60b026c37e13d38330862676dd12fa16cdda9bf2b4a
+Block: 55
+Paid: 0.000131449174753707 ETH (43803 gas * 3.000917169 gwei)
+
+
+Transactions saved to: /Users/simonebianchin/dev/github.com/UpgradeableProxyUUP/broadcast/TestUpgrade.s.sol/31337/run-latest.json
+
+Sensitive values saved to: /Users/simonebianchin/dev/github.com/UpgradeableProxyUUP/cache/TestUpgrade.s.sol/31337/run-latest.json
+
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+Total Paid: 0.003028486548255289 ETH (1009102 gas * avg 3.001050663 gwei)
+
+Transactions saved to: /Users/simonebianchin/dev/github.com/UpgradeableProxyUUP/broadcast/TestUpgrade.s.sol/31337/run-latest.json
+
+Sensitive values saved to: /Users/simonebianchin/dev/github.com/UpgradeableProxyUUP/cache/TestUpgrade.s.sol/31337/run-latest.json
+
